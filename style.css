@@ -11,3 +11,10 @@
   justify-content: center;
   align-items: center;
 }
+#splashScreen .pft {
+  font-size: 6rem;
+}
+#splashScreen .pft span {
+  display: inline-block;
+  overflow: hidden;
+}
